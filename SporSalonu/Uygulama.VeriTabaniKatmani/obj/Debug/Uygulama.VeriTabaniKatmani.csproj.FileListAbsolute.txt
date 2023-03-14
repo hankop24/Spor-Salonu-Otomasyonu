@@ -1,0 +1,10 @@
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\obj\Debug\Uygulama.VeriTabaniKatmani.csproj.AssemblyReference.cache
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\obj\Debug\Uygulama.VeriTabaniKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\bin\Debug\Uygulama.VeriTabaniKatmani.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\bin\Debug\Uygulama.VeriTabaniKatmani.pdb
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\bin\Debug\Guna.UI2.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\bin\Debug\Uygulama.Nesneler.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\bin\Debug\Uygulama.Nesneler.pdb
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\obj\Debug\Uygulama.VeriTabaniKatmani.csproj.CopyComplete
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\obj\Debug\Uygulama.VeriTabaniKatmani.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.VeriTabaniKatmani\obj\Debug\Uygulama.VeriTabaniKatmani.pdb

@@ -1,0 +1,12 @@
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\obj\Debug\Uygulama.IsKatmani.csproj.AssemblyReference.cache
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\obj\Debug\Uygulama.IsKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\bin\Debug\Uygulama.IsKatmani.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\bin\Debug\Uygulama.IsKatmani.pdb
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\bin\Debug\Guna.UI2.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\bin\Debug\Uygulama.Nesneler.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\bin\Debug\Uygulama.VeriTabaniKatmani.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\bin\Debug\Uygulama.Nesneler.pdb
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\bin\Debug\Uygulama.VeriTabaniKatmani.pdb
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\obj\Debug\Uygulama.IsKatmani.csproj.CopyComplete
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\obj\Debug\Uygulama.IsKatmani.dll
+C:\Users\Han\Desktop\software\Projects\HilalSengilProject\HilalSengilProject\Uygulama.IsKatmani\obj\Debug\Uygulama.IsKatmani.pdb
